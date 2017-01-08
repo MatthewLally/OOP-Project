@@ -1,0 +1,1 @@
+My application is a file server that allows users to connect and view files available for download and download them. I did not get the blocking que working .To run my application, simply open two different versions of eclispe or two different console views and run the runner class in the client package and the server package. 
